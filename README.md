@@ -1,5 +1,7 @@
 ### Hi there 👋
 Nice to meet you!
+
+### Some facts
 - Fulltime Spring Developer since April 2016
 - but more into love in modding pixel art games
 - was in love with Unity3D for 5 years
