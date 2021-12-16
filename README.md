@@ -16,3 +16,6 @@ Nice to meet you!
 - 📫 How to reach me:
   - I prefer to be contated by context, i.e. [NoitaMP Issues](https://github.com/Ismoh/NoitaMP/issues)
   - :electric_plug: Join my [discord community](https://discord.gg/Z99g7Hx)
+
+---
+16.12.2021
