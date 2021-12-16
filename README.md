@@ -1,5 +1,10 @@
 ### Hi there 👋
 Nice to meet you!
+- Fulltime Spring Developer since April 2016
+- but more into love in modding pixel art games
+- was in love with Unity3D for 5 years
+- prototyped three games (never released)
+- into coding!
 
 ### What's happening
 - 🔭 I’m currently working on [NoitaMP](https://github.com/Ismoh/NoitaMP)
