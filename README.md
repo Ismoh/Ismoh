@@ -3,7 +3,7 @@ Nice to meet you!
 
 ### Some facts
 - Fulltime Spring Developer since April 2016
-- but more into love in modding pixel art games
+- but more into love in modding pixel art games, but still new to modding!
 - was in love with Unity3D for 5 years
 - prototyped three games (never released)
 - into coding!
