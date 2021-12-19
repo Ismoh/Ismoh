@@ -10,7 +10,7 @@ Nice to meet you!
 
 ### What's happening
 - 🔭 I’m currently working on [NoitaMP](https://github.com/Ismoh/NoitaMP)
-- 🤔 I’m looking for help with [unix gurus](https://github.com/Ismoh/NoitaMP/issues/3)
+- 🤔 I’m looking for help with [![open-issues-help-wanted](https://flat.badgen.net/github/label-issues/ismoh/noitamp/help%20wanted/open)](https://github.com/Ismoh/NoitaMP/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
   - 👯 Let me know and I'll add you to the contributers/collaborators!
   - Feel free to join, if you want to work on [NoitaMP](https://github.com/Ismoh/NoitaMP)
 - 📫 How to reach me:
