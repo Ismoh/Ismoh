@@ -19,3 +19,6 @@ Nice to meet you!
 
 ---
 16.12.2021
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismoh)](https://github.com/anuraghazra/github-readme-stats)
