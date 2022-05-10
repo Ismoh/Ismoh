@@ -22,6 +22,8 @@ Nice to meet you!
 
 <div align="center">
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ismoh&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=000000)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismoh&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoh&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
   
