@@ -3,14 +3,14 @@ Nice to meet you!
 
 ### Some facts
 - Fulltime Spring Developer since April 2016
-- but more into love in modding pixel art games, but still new to modding!
+- but more into love in modding pixel art games!
 - was in love with Unity3D for 5 years
 - prototyped three games (never released)
 - into coding!
 
 ### What's happening
 - 🔭 I’m currently working on [![NoitaMP-repo](https://img.shields.io/badge/GitHub-NoitaMP-informational?style=flat-square&logo=github)](https://github.com/Ismoh/NoitaMP)
-- 🤔 I’m looking for help with [![open-issues-help-wanted](https://flat.badgen.net/github/label-issues/ismoh/noitamp/help%20wanted/open)](https://github.com/Ismoh/NoitaMP/issues?q=is%3Aopen+is%3Aissue+label%3A%22help+wanted%22)
+- 🤔 I’m looking for help with [![open-issues-help-wanted](https://flat.badgen.net/github/label-issues/ismoh/noitamp/help_wanted/open)](https://github.com/Ismoh/NoitaMP/issues?q=is%3Aopen+is%3Aissue+label%3A%22help_wanted%22)
   - 👯 Let me know and I'll add you to the contributers/collaborators!
   - Feel free to join, if you want to work on [![NoitaMP-repo](https://img.shields.io/badge/GitHub-NoitaMP-informational?style=flat-square&logo=github)](https://github.com/Ismoh/NoitaMP)
 - 📫 How to reach me:
