@@ -17,8 +17,16 @@ Nice to meet you!
   - I prefer to be contated by context, i.e. [![issues](https://flat.badgen.net/github/issues/ismoh/noitamp?label=NoitaMP%20issues)](https://github.com/Ismoh/NoitaMP/issues?q=is%3Aissue)
   - :electric_plug: Join my [![Discord](https://img.shields.io/discord/747169041457872917?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Z99g7Hx)
 
+# Languages I speak
+
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+and more!
 ---
-16.12.2021
+29.11.2022
 
 <div align="center">
   
