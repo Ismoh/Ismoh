@@ -1,38 +1,36 @@
-### Hi there 👋
-Nice to meet you!
+<h1 align="center">Nice to meet you! 👋 I'm Ismoh</h1>
+<h3 align="center">A passionate and weird developer suffering from Gilbert's syndrome :woozy_face:</h3>
 
-### Some facts
-- Fulltime Spring Developer since April 2016
-- but more into love in modding pixel art games!
-- was in love with Unity3D for 5 years
-- prototyped three games (never released)
-- into coding!
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ismoh&label=Profile%20views&color=0e75b6&style=flat-square" alt="ismoh" /> </p>
 
-### What's happening
-- 🔭 I’m currently working on [![NoitaMP-repo](https://img.shields.io/badge/GitHub-NoitaMP-informational?style=flat-square&logo=github)](https://github.com/Ismoh/NoitaMP)
-- 🤔 I’m looking for help with [![open-issues-help-wanted](https://flat.badgen.net/github/label-issues/ismoh/noitamp/help_wanted/open)](https://github.com/Ismoh/NoitaMP/issues?q=is%3Aopen+is%3Aissue+label%3A%22help_wanted%22)
-  - 👯 Let me know and I'll add you to the contributers/collaborators!
-  - Feel free to join, if you want to work on [![NoitaMP-repo](https://img.shields.io/badge/GitHub-NoitaMP-informational?style=flat-square&logo=github)](https://github.com/Ismoh/NoitaMP)
-- 📫 How to reach me:
-  - I prefer to be contated by context, i.e. [![issues](https://flat.badgen.net/github/issues/ismoh/noitamp?label=NoitaMP%20issues)](https://github.com/Ismoh/NoitaMP/issues?q=is%3Aissue)
-  - :electric_plug: Join my [![Discord](https://img.shields.io/discord/747169041457872917?label=Discord&logo=discord&style=flat-square)](https://discord.gg/Z99g7Hx)
+- 🔭 I’m currently working on [NoitaMP](https://github.com/Ismoh/NoitaMP)
 
-# Languages I speak
+- 🌱 I’m currently learning **C++, CMake and everything about build tools**
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-and more!
----
-29.11.2022
+- 🤝 I’m looking for help with [NoitaMP](https://github.com/Ismoh/NoitaMP)
 
-<div align="center">
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ismoh&hide_border=true&date_format=j%20M%5B%20Y%5D&stroke=000000)](https://git.io/streak-stats)
-  [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)  
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ismoh&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismoh&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
+- 👨‍💻 All of my projects are available at [/Ismoh](https://github.com/Ismoh?tab=repositories&q=&type=source&language=&sort=) and [/Ismoh-Games](https://github.com/orgs/Ismoh-Games/repositories?q=&type=source&language=&sort=)
+
+- 📫 How to reach me [Discord](https://discord.gg/Z99g7Hx)
+
+- ⚡ Fun fact **gilbert's syndrome**?\
+  Don't judge me, when I act weird or act like a brain-afk person, I'm just suffering from this syndrome. In those moments I just need to eat and drink a lot! :woozy_face:
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://discord.gg/Z99g7Hx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Z99g7Hx" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/asd"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="asd" /></a><a href="https://ko-fi.com/dd"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="dd" /></a></p><br><br><br>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ismoh" alt="ismoh" /></a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ismoh&show_icons=true&locale=en&layout=compact" alt="ismoh" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ismoh&show_icons=true&locale=en" alt="ismoh" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ismoh&" alt="ismoh" /></p>
