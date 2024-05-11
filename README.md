@@ -1,5 +1,5 @@
 <h1 align="center">Nice to meet you! 👋 I'm Ismoh</h1>
-<h3 align="center">A passionate and weird developer suffering from Gilbert's syndrome :woozy_face:</h3>
+<h3 align="center">passionate troubleshooter<h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismoh&label=Profile%20views&color=0e75b6&style=flat-square" alt="ismoh" /> </p>
 
@@ -12,9 +12,6 @@
 - 👨‍💻 All of my projects are available at [/Ismoh](https://github.com/Ismoh?tab=repositories&q=&type=source&language=&sort=) and [/Ismoh-Games](https://github.com/orgs/Ismoh-Games/repositories?q=&type=source&language=&sort=)
 
 - 📫 How to reach me [Discord](https://discord.gg/Z99g7Hx)
-
-- ⚡ Fun fact **gilbert's syndrome**?\
-  Don't judge me, when I act weird or act like a brain-afk person, I'm just suffering from this syndrome. In those moments I just need to eat and drink a lot! :woozy_face:
 
 ### Connect with me
 
