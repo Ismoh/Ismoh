@@ -3,15 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismoh&label=Profile%20views&color=0e75b6&style=flat-square" alt="ismoh" /> </p>
 
-- 🔭 I’m currently working on [NoitaMP](https://github.com/Ismoh/NoitaMP)
-
-- 🌱 I’m currently learning **C++, CMake and everything about build tools**
-
-- 🤝 I’m looking for help with [NoitaMP](https://github.com/Ismoh/NoitaMP)
-
-- 👨‍💻 All of my projects are available at [/Ismoh](https://github.com/Ismoh?tab=repositories&q=&type=source&language=&sort=) and [/Ismoh-Games](https://github.com/orgs/Ismoh-Games/repositories?q=&type=source&language=&sort=)
-
-- 📫 How to reach me [Discord](https://discord.gg/Z99g7Hx)
+🌱 I recently stopped coding in my free time. Each repo is deprecated and on hold. I won't use my freetime for coding anymore.
 
 ### Connect with me
 
