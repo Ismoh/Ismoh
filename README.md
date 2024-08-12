@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ismoh&label=Profile%20views&color=0e75b6&style=flat-square" alt="ismoh" /> </p>
 
-🌱 I recently stopped coding in my free time.\Each repo is deprecated and on hold.\I won't use my freetime for coding anymore.
+🌱 I recently stopped coding in my free time.\ Each repo is deprecated and on hold.\ I won't use my freetime for coding anymore.
 
 ### Connect with me
 
